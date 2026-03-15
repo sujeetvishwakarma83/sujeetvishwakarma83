@@ -146,7 +146,7 @@ www.linkedin.com/in/sujeet-vishwakarma-a19b2323a
 https://sujeetvishwakarma83.github.io/portfolio/#projects
 
 📧 Email
-[your@email.com](mailto:sujeet8528420907@gmail.com)
+[Sujeet](mailto:sujeet8528420907@gmail.com)
 
 ---
 
