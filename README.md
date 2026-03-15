@@ -62,8 +62,8 @@ A personal portfolio website to showcase my skills, projects and contact details
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-🌐 Portfolio: https://yourportfolio.com
+💼 LinkedIn: https:www.linkedin.com/in/sujeet-vishwakarma-a19b2323a
+🌐 Portfolio: https://sujeetvishwakarma83.github.io/portfolio/#projects
 
 ---
 
