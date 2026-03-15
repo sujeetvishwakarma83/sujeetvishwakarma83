@@ -1,40 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sujeet Vishwakarma</h1>
-<h3 align="center">💻 MCA Student | BCA Graduate | Aspiring Full Stack Web Developer</h3>
+# 👋 Hello, I'm Sujeet Vishwakarma
 
-- 🎓 I’m currently in the **2nd year of MCA** at *Veer Bahadur Singh Purvanchal University, Jaunpur, UP, India*
-- 🎓 I’ve completed my **BCA** from the same university
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Frontend Development**
-- 👨‍💻 I love building **user-friendly websites** and exploring new web technologies
-- 💬 Ask me about **JavaScript, GitHub, or any beginner-friendly web dev topics**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sujeet-vishwakarma-a19b2323a)**
-- 📸 Follow me on [Instagram](https://www.instagram.com/sujeet_vishwakarma83/)
-- ⚡ Fun fact: *Coding + Tea = Perfect Day!*
+💻 **Web Developer | PHP & JavaScript Enthusiast**
+🚀 Passionate about building modern, responsive and user-friendly websites.
 
 ---
 
-### 🛠️ Skills & Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+## 👨‍💻 About Me
 
----
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujeetvishwakarma83&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=sujeetvishwakarma83&theme=tokyonight" width="47%"/>
-</p>
----
-
-### 🔗 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sujeet-vishwakarma-a19b2323a)
-- 📸 [Instagram](https://www.instagram.com/sujeet_vishwakarma83/)
+* 🌱 Currently learning **Full Stack Web Development**
+* 💻 I enjoy building **dynamic web applications**
+* 📚 Always exploring new technologies
+* 🎯 Goal: Become a professional software developer
 
 ---
 
-<p align="center">✨Thanks for visiting my GitHub profile!✨</p>
+## 🚀 Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🏦 Banking Management System
+
+A web-based system that helps manage bank accounts, deposits, withdrawals and transactions.
+
+### 🎓 Student Management System
+
+A web application for managing student data including add, update and delete operations.
+
+### 🌐 Portfolio Website
+
+A personal portfolio website to showcase my skills, projects and contact details.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujeetvishwakarma83\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetvishwakarma83\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sujeetvishwakarma83\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+🌐 Portfolio: https://yourportfolio.com
+
+---
+
+⭐ From [Sujeet Vishwakarma](https://github.com/sujeetvishwakarma83)
