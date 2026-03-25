@@ -60,13 +60,17 @@ If you need a website or web application, feel free to contact me.
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### ⚙ Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge\&logo=express\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php\&logoColor=white)
 
 ### 🗄 Database
 
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### 🛠 Tools
@@ -75,7 +79,6 @@ If you need a website or web application, feel free to contact me.
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
----
 
 # 🚀 Featured Projects
 
