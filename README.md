@@ -7,7 +7,7 @@
 <!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Web+Developer;PHP+Developer;JavaScript+Programmer;Building+Modern+Web+Applications;Freelance+Web+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Web+Developer;PHP+Developer;JavaScript+Programmer;Building+Modern+Web+Applications;Freelance+Web+Developer"/>
 </p>
 
 <!-- VISITOR COUNTER -->
@@ -20,21 +20,21 @@
 
 # 👋 Hello, I'm Sujeet Vishwakarma
 
-💻 **Web Developer | PHP & JavaScript Developer**
+💻 **MERN Stack Developer | Web Developer | PHP & JavaScript Developer**
 
-I am a passionate web developer who enjoys building modern, responsive and user-friendly websites.
-I focus on creating practical projects that solve real-world problems and continuously improve my development skills.
+I am a passionate developer focused on building modern, scalable and responsive web applications.
+I am currently growing as a **MERN Stack Developer** while also leveraging my strong foundation in PHP and JavaScript.
 
 ---
 
 # 👨‍💻 About Me
 
-* 🌱 Currently learning **Full Stack Web Development**
-* 💡 Interested in **Web Development and Software Engineering**
-* 🧠 Strong interest in **PHP, JavaScript and Backend Development**
+* 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
+* 💡 Interested in **Full Stack Development and Software Engineering**
+* 🧠 Strong interest in **JavaScript Ecosystem & Backend Development**
 * 🚀 Love building **real world web applications**
-* 🎯 Goal: Become a **Professional Software Developer**
-* 📚 Always learning new technologies and improving coding skills
+* 🎯 Goal: Become a **Professional MERN Stack Developer**
+* 📚 Continuously improving coding and problem-solving skills
 
 ---
 
@@ -42,6 +42,7 @@ I focus on creating practical projects that solve real-world problems and contin
 
 I am available for freelance web development projects.
 
+✔ MERN Stack Web Applications
 ✔ Website Development
 ✔ Responsive Website Design
 ✔ PHP & MySQL Web Applications
@@ -140,7 +141,7 @@ HTML • CSS • JavaScript
 # 🌐 Connect With Me
 
 💼 LinkedIn
-www.linkedin.com/in/sujeet-vishwakarma-a19b2323a
+[www.linkedin.com/in/sujeet-vishwakarma-a19b2323a](http://www.linkedin.com/in/sujeet-vishwakarma-a19b2323a)
 
 🌐 Portfolio
 https://sujeetvishwakarma83.github.io/portfolio/#projects
