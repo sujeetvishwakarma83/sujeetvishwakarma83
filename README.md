@@ -147,7 +147,7 @@ HTML • CSS • JavaScript
 [www.linkedin.com/in/sujeet-vishwakarma-a19b2323a](http://www.linkedin.com/in/sujeet-vishwakarma-a19b2323a)
 
 🌐 Portfolio
-https://sujeetvishwakarma83.github.io/portfolio/#projects
+https://my-portfolio-one-ochre-45.vercel.app/
 
 📧 Email
 [Sujeet](mailto:sujeet8528420907@gmail.com)
