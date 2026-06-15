@@ -1,126 +1,151 @@
-<!-- PREMIUM DEVELOPER BANNER -->
+# 🚀 Sujeet Vishwakarma
+
+### Full Stack MERN Developer | Freelance Website Developer
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4b6cb7&height=220&section=header&text=Sujeet%20Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:0ea5e9&text=Sujeet%20Vishwakarma&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 </p>
-
-<!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Web+Developer;PHP+Developer;JavaScript+Programmer;Building+Modern+Web+Applications;Freelance+Web+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Professional+Website+Developer;Freelance+Web+Designer;React+%7C+Node.js+%7C+MongoDB;Helping+Businesses+Grow+Online"/>
 </p>
-
-<!-- VISITOR COUNTER -->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sujeetvishwakarma83&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<a href="https://www.fiverr.com/s/WE5BabR">
+<img src="https://img.shields.io/badge/Hire%20Me%20On-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
+<a href="https://my-portfolio-one-ochre-45.vercel.app">
+<img src="https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge"/>
+</a>
+
+<a href="mailto:sujeet8528420907@gmail.com">
+<img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-# 👋 Hello, I'm Sujeet Vishwakarma
+# 💎 About Me
 
-💻 **MERN Stack Developer | Web Developer | PHP & JavaScript Developer**
+I build modern, responsive, and conversion-focused websites that help businesses establish a strong online presence.
 
-I am a passionate developer focused on building modern, scalable and responsive web applications.
-I am currently growing as a **MERN Stack Developer** while also leveraging my strong foundation in PHP and JavaScript.
+✔ Professional Business Websites
 
----
+✔ MERN Stack Applications
 
-# 👨‍💻 About Me
+✔ Portfolio Websites
 
-* 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
-* 💡 Interested in **Full Stack Development and Software Engineering**
-* 🧠 Strong interest in **JavaScript Ecosystem & Backend Development**
-* 🚀 Love building **real world web applications**
-* 🎯 Goal: Become a **Professional MERN Stack Developer**
-* 📚 Continuously improving coding and problem-solving skills
+✔ Landing Pages
 
----
+✔ Website Redesign
 
-# 💼 Freelance Services
+✔ Performance Optimization
 
-I am available for freelance web development projects.
-
-✔ MERN Stack Web Applications
-✔ Website Development
-✔ Responsive Website Design
-✔ PHP & MySQL Web Applications
-✔ Portfolio Website Development
-✔ Bug Fixing & Website Improvements
-
-If you need a website or web application, feel free to contact me.
+✔ Responsive Mobile-First Design
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-### 🌐 Frontend
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"/>
+</p>
 
-### ⚙ Backend
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge\&logo=express\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
+</p>
 
-### 🗄 Database
+### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
-### 🛠 Tools
+### Tools
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
+---
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🏦 Banking Management System
 
-A web application designed to manage banking operations such as account creation, deposits, withdrawals and transaction records.
+Professional banking application for managing accounts, deposits, withdrawals, and transaction history.
 
-**Tech Used**
-HTML • CSS • PHP • MySQL
+### Tech Used
 
----
+PHP • MySQL • HTML • CSS
+
+</td>
+
+<td width="50%">
 
 ## 🎓 Student Management System
 
-A system for managing student data including adding, editing and deleting student records.
+Student record management application with CRUD operations and data management.
 
-**Tech Used**
-HTML • CSS • PHP • MySQL
+### Tech Used
 
----
+PHP • MySQL • HTML • CSS
 
-## 🌐 Portfolio Website
+</td>
 
-A professional portfolio website showcasing my projects, skills and contact information.
+</tr>
 
-**Tech Used**
+<tr>
+
+<td width="50%">
+
+## 🌐 Personal Portfolio Website
+
+Modern responsive portfolio website with premium UI design.
+
+### Tech Used
+
 HTML • CSS • JavaScript
 
+</td>
+
+<td width="50%">
+
+## 💼 Business Websites
+
+Custom websites designed for restaurants, agencies, local businesses, and startups.
+
+### Tech Used
+
+React • Node.js • MongoDB
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sujeetvishwakarma83&show_icons=true&theme=tokyonight"/>
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sujeetvishwakarma83&show_icons=true&theme=tokyonight"/>
 
-# 📈 Most Used Languages
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetvishwakarma83&layout=compact&theme=tokyonight"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetvishwakarma83&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -133,7 +158,15 @@ HTML • CSS • JavaScript
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sujeetvishwakarma83&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -141,17 +174,70 @@ HTML • CSS • JavaScript
 
 ---
 
-# 🌐 Connect With Me
+# ⭐ Why Work With Me?
 
-💼 LinkedIn
-[www.linkedin.com/in/sujeet-vishwakarma-a19b2323a](http://www.linkedin.com/in/sujeet-vishwakarma-a19b2323a)
+✅ Responsive Design
 
-🌐 Portfolio
-https://my-portfolio-one-ochre-45.vercel.app/
+✅ SEO Friendly Websites
 
-📧 Email
-[Sujeet](mailto:sujeet8528420907@gmail.com)
+✅ Fast Loading Speed
+
+✅ Clean & Maintainable Code
+
+✅ Modern UI/UX
+
+✅ Business Focused Solutions
 
 ---
 
-⭐ **If you like my work, consider following me and starring my repositories.**
+# 💬 Client Focus
+
+I help:
+
+🏢 Small Businesses
+
+🍽 Restaurants
+
+🦷 Dentists
+
+💇 Salons
+
+🏋 Gyms
+
+🚀 Startups
+
+Build modern websites that attract more customers and generate more inquiries.
+
+---
+
+# 📬 Contact Me
+
+### 🌐 Portfolio
+
+https://my-portfolio-one-ochre-45.vercel.app
+
+### 🎯 Fiverr
+
+https://www.fiverr.com/s/WE5BabR
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/sujeet-vishwakarma-a19b2323a
+
+### 📧 Email
+
+[sujeet8528420907@gmail.com](mailto:sujeet8528420907@gmail.com)
+
+---
+
+<p align="center">
+
+## 🚀 Available For Freelance Projects
+
+### Need a Professional Website?
+
+<a href="https://www.fiverr.com/s/WE5BabR">
+<img src="https://img.shields.io/badge/Hire%20Me%20Now-Fiverr-1DBF73?style=for-the-badge&logo=fiverr"/>
+</a>
+
+</p>
