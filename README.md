@@ -1,19 +1,19 @@
 # 🚀 Sujeet Vishwakarma
 
-### Full Stack MERN Developer | Freelance Website Developer
+### Full Stack MERN Developer | Freelance Web Developer | Problem Solver
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:0ea5e9&text=Sujeet%20Vishwakarma&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=250&section=header&text=Sujeet%20Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Professional+Website+Developer;Freelance+Web+Designer;React+%7C+Node.js+%7C+MongoDB;Helping+Businesses+Grow+Online"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Professional+Website+Developer;React+%7C+Node.js+%7C+MongoDB;Freelance+Web+Developer;Building+Modern+Business+Websites;Open+For+Freelance+Projects"/>
 </p>
 
 <p align="center">
 
 <a href="https://www.fiverr.com/s/WE5BabR">
-<img src="https://img.shields.io/badge/Hire%20Me%20On-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hire%20Me-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
 <a href="https://my-portfolio-one-ochre-45.vercel.app">
@@ -21,130 +21,108 @@
 </a>
 
 <a href="mailto:sujeet8528420907@gmail.com">
-<img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# 💎 About Me
+# 👨‍💻 About Me
 
-I build modern, responsive, and conversion-focused websites that help businesses establish a strong online presence.
+💻 Full Stack MERN Developer passionate about building scalable and responsive web applications.
 
-✔ Professional Business Websites
+🚀 I help businesses create professional websites that attract customers and improve online presence.
 
-✔ MERN Stack Applications
+### What I Do
 
-✔ Portfolio Websites
+✔ MERN Stack Development
 
-✔ Landing Pages
+✔ Business Website Development
+
+✔ Landing Page Development
+
+✔ Portfolio Website Development
 
 ✔ Website Redesign
 
 ✔ Performance Optimization
 
-✔ Responsive Mobile-First Design
+✔ Responsive Web Design
+
+✔ Bug Fixing & Maintenance
 
 ---
 
-# ⚡ Tech Stack
+# 🛠️ Technologies & Tools
 
-### Frontend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=cpp,javascript,react,nodejs,express,mongodb,npm,tailwind,bootstrap,html,css,git,github,githubactions,postman,heroku,aws,vscode,prettier&perline=10"/>
+
 </p>
 
-### Backend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
-</p>
+# ⚡ Tech Expertise
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+| Category        | Technologies                                   |
+| --------------- | ---------------------------------------------- |
+| Languages       | C++, JavaScript                                |
+| Frontend        | HTML5, CSS3, React.js, Tailwind CSS, Bootstrap |
+| Backend         | Node.js, Express.js, PHP                       |
+| Database        | MongoDB, MySQL                                 |
+| Package Manager | NPM                                            |
+| Version Control | Git, GitHub                                    |
+| Cloud & Hosting | AWS, Heroku, Vercel                            |
+| API Testing     | Postman                                        |
+| Formatting      | Prettier                                       |
+| Authentication  | Google OAuth                                   |
+| Automation      | GitHub Actions                                 |
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
 ## 🏦 Banking Management System
 
-Professional banking application for managing accounts, deposits, withdrawals, and transaction history.
+A complete banking solution that allows users to create accounts, manage balances, deposits, withdrawals and transaction history.
 
-### Tech Used
-
-PHP • MySQL • HTML • CSS
-
-</td>
-
-<td width="50%">
-
-## 🎓 Student Management System
-
-Student record management application with CRUD operations and data management.
-
-### Tech Used
-
-PHP • MySQL • HTML • CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🌐 Personal Portfolio Website
-
-Modern responsive portfolio website with premium UI design.
-
-### Tech Used
-
-HTML • CSS • JavaScript
-
-</td>
-
-<td width="50%">
-
-## 💼 Business Websites
-
-Custom websites designed for restaurants, agencies, local businesses, and startups.
-
-### Tech Used
-
-React • Node.js • MongoDB
-
-</td>
-
-</tr>
-</table>
+**Tech Stack:** PHP, MySQL, HTML, CSS
 
 ---
 
-# 📊 GitHub Analytics
+## 🎓 Student Management System
+
+A web-based student record management application with CRUD functionality and data management.
+
+**Tech Stack:** PHP, MySQL, HTML, CSS
+
+---
+
+## 🌐 Personal Portfolio Website
+
+Modern responsive portfolio website showcasing projects, services, skills and contact information.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+## 💼 Business Website Projects
+
+Custom websites built for local businesses, restaurants, startups and agencies.
+
+**Tech Stack:** React, Node.js, MongoDB
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sujeetvishwakarma83&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujeetvishwakarma83&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetvishwakarma83&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetvishwakarma83&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -166,6 +144,14 @@ React • Node.js • MongoDB
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujeetvishwakarma83&theme=tokyo-night"/>
+</p>
+
+---
+
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -174,25 +160,27 @@ React • Node.js • MongoDB
 
 ---
 
-# ⭐ Why Work With Me?
+# ⭐ Why Hire Me?
+
+✅ Clean & Maintainable Code
 
 ✅ Responsive Design
 
 ✅ SEO Friendly Websites
 
-✅ Fast Loading Speed
-
-✅ Clean & Maintainable Code
+✅ Fast Loading Performance
 
 ✅ Modern UI/UX
 
 ✅ Business Focused Solutions
 
+✅ Reliable Communication
+
+✅ Client Satisfaction Priority
+
 ---
 
-# 💬 Client Focus
-
-I help:
+# 💼 Industries I Can Help
 
 🏢 Small Businesses
 
@@ -202,25 +190,27 @@ I help:
 
 💇 Salons
 
-🏋 Gyms
+🏋 Fitness Centers
+
+🏨 Hotels
 
 🚀 Startups
 
-Build modern websites that attract more customers and generate more inquiries.
+🛍 E-commerce Businesses
 
 ---
 
-# 📬 Contact Me
+# 📬 Connect With Me
+
+### 💼 Fiverr
+
+https://www.fiverr.com/s/WE5BabR
 
 ### 🌐 Portfolio
 
 https://my-portfolio-one-ochre-45.vercel.app
 
-### 🎯 Fiverr
-
-https://www.fiverr.com/s/WE5BabR
-
-### 💼 LinkedIn
+### 🔗 LinkedIn
 
 https://www.linkedin.com/in/sujeet-vishwakarma-a19b2323a
 
@@ -230,14 +220,34 @@ https://www.linkedin.com/in/sujeet-vishwakarma-a19b2323a
 
 ---
 
-<p align="center">
-
-## 🚀 Available For Freelance Projects
+# 🚀 Open For Freelance Work
 
 ### Need a Professional Website?
+
+✔ Business Website
+
+✔ MERN Stack Application
+
+✔ Landing Page
+
+✔ Portfolio Website
+
+✔ Website Redesign
+
+✔ Bug Fixes
+
+<p align="center">
 
 <a href="https://www.fiverr.com/s/WE5BabR">
 <img src="https://img.shields.io/badge/Hire%20Me%20Now-Fiverr-1DBF73?style=for-the-badge&logo=fiverr"/>
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider following my profile and starring my repositories.
 
 </p>
