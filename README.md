@@ -136,14 +136,6 @@ Custom websites built for local businesses, restaurants, startups and agencies.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sujeetvishwakarma83&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
