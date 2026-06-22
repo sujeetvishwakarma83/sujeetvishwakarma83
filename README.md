@@ -208,7 +208,7 @@ https://www.linkedin.com/in/sujeet-vishwakarma-a19b2323a
 
 ### 📧 Email
 
-[sujeet8528420907@gmail.com](mailto:sujeet8528420907@gmail.com)
+[sujeet.cabbagecode@gmail.com](mailto:sujeet.cabbagecode@gmail.com)
 
 ---
 
